@@ -72,32 +72,33 @@ nav a:hover {
 }
 .course {
     width: 200px;
-    height: 150px;
+    height: 180px;
     background-color: white;
     border: 1px solid #888;
     border-radius: 6px;
     padding: 20px;
     text-align: left;
 }
-.course:hover{
+.course:hover {
     border-color: blue;
 }
+
 .course h3 {
     text-align: center;
     font-size: 14px;
-    margin: 5px 0 20px;
+    margin: 5px 0 15px;
 }
 
 .course p {
     font-size: 12px;
     line-height: 1.5;
+    margin-bottom: 10px;
 }
-
 /* Learn More Button */
 
 .course button {
     display: block;
-    margin: 15px auto 0;
+    margin: 10px auto 0;
     background-color: white;
     color: black;
     border: 1px solid #555;
